@@ -1,1 +1,0 @@
-success_data={'money':100}
