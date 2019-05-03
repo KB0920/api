@@ -1,0 +1,8 @@
+test_add_negative (python¿Õ°×.class_12.TestAdd) ... ok
+test_add_positive (python¿Õ°×.class_12.TestAdd) ... ok
+test_add_zero (python¿Õ°×.class_12.TestAdd) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK

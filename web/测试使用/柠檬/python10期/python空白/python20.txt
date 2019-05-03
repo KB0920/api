@@ -1,0 +1,11 @@
+
+2018-10-14 18:11:12,820-DEBUG-class_17.py-python20-日志信息:没有见过
+2018-10-14 18:11:12,820-INFO-class_17.py-python20-日志信息:小场面
+2018-10-14 18:11:12,821-WARNING-class_17.py-python20-日志信息:好巧
+2018-10-14 18:11:12,821-ERROR-class_17.py-python20-日志信息:出错了
+2018-10-14 18:11:12,821-CRITICAL-class_17.py-python20-日志信息:严重了
+2018-10-14 18:42:10,826-DEBUG-class_17.py-python20-日志信息:没有见过
+2018-10-14 18:42:10,827-INFO-class_17.py-python20-日志信息:小场面
+2018-10-14 18:42:10,828-WARNING-class_17.py-python20-日志信息:好巧
+2018-10-14 18:42:10,829-ERROR-class_17.py-python20-日志信息:出错了
+2018-10-14 18:42:10,829-CRITICAL-class_17.py-python20-日志信息:严重了

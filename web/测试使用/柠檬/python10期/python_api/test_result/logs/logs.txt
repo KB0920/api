@@ -1,0 +1,1571 @@
+2018-11-08 22:09:54,871-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:09:54,872-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','pwd':'123456','regname':'lemon'}
+2018-11-08 22:09:55,061-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:09:55,217-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:09:55,217-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','pwd':'123456','regname':'lemon'}
+2018-11-08 22:09:55,555-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:09:55,696-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:09:55,696-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','amount':'10000'}
+2018-11-08 22:09:56,006-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:09:56,153-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:09:56,154-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:09:56,397-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:09:56,532-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:09:56,532-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','amount':''}
+2018-11-08 22:09:56,742-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:09:56,902-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:09:56,903-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465674','amount':'10000'}
+2018-11-08 22:09:57,465-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:09:57,604-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:09:57,605-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','amount':'100.001'}
+2018-11-08 22:10:00,197-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:10:00,333-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:10:00,334-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','amount':'500000.01'}
+2018-11-08 22:10:00,533-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:10:00,691-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:10:00,692-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','amount':'-100'}
+2018-11-08 22:10:27,171-ERROR-my_log.py-python20-日志信息:错误是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2018-11-08 22:10:27,318-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:10:27,319-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465673','amount':'一万'}
+2018-11-08 22:10:29,539-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:49,523-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:11:49,524-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','pwd':'123456','regname':'lemon'}
+2018-11-08 22:11:49,686-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:49,869-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:11:49,870-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','pwd':'123456','regname':'lemon'}
+2018-11-08 22:11:50,027-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:50,178-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:11:50,178-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','amount':'10000'}
+2018-11-08 22:11:50,482-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:50,631-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:11:50,633-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:11:50,780-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:50,944-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:11:50,945-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','amount':''}
+2018-11-08 22:11:51,183-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:51,328-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:11:51,329-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462115','amount':'10000'}
+2018-11-08 22:11:51,503-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:51,657-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:11:51,658-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','amount':'100.001'}
+2018-11-08 22:11:51,816-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:51,969-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:11:51,970-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','amount':'500000.01'}
+2018-11-08 22:11:52,362-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:52,533-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:11:52,534-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','amount':'-100'}
+2018-11-08 22:11:52,695-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:11:52,856-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:11:52,857-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462114','amount':'一万'}
+2018-11-08 22:11:53,078-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:15:23,781-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:15:23,782-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466117','pwd':'123456','regname':'lemon'}
+2018-11-08 22:15:24,391-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:15:24,540-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:15:24,541-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466117','pwd':'123456','regname':'lemon'}
+2018-11-08 22:15:25,220-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-08 22:15:25,359-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:15:25,360-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466118','pwd':'123456'}
+2018-11-08 22:15:25,696-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:15:25,833-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:15:25,834-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-08 22:15:26,006-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-08 22:15:26,173-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:15:26,174-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466119','pwd':'','regname':'lemon'}
+2018-11-08 22:15:26,672-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-08 22:15:26,820-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:15:26,820-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-08 22:15:26,954-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-08 22:15:27,113-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:15:27,117-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466120','pwd':'12345','regname':'lemon'}
+2018-11-08 22:15:27,230-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-08 22:16:25,985-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:16:25,986-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','pwd':'123456','regname':'lemon'}
+2018-11-08 22:16:26,106-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:16:26,323-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:16:26,326-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','pwd':'123456','regname':'lemon'}
+2018-11-08 22:16:26,433-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 22:16:26,583-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:16:26,584-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','amount':'10000'}
+2018-11-08 22:16:26,697-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41539, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344461822', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 22:16:28.0'}, 'msg': '充值成功'}
+2018-11-08 22:16:26,853-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:16:26,854-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:16:27,006-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:16:27,170-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:16:27,171-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','amount':''}
+2018-11-08 22:16:31,174-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:16:31,327-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:16:31,329-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461823','amount':'10000'}
+2018-11-08 22:16:31,531-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:16:31,703-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:16:31,704-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','amount':'100.001'}
+2018-11-08 22:16:31,862-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:16:32,023-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:16:32,024-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','amount':'500000.01'}
+2018-11-08 22:16:32,186-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:16:32,370-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:16:32,371-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','amount':'-100'}
+2018-11-08 22:16:32,524-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:16:32,704-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:16:32,705-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461822','amount':'一万'}
+2018-11-08 22:16:32,856-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:31,634-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:19:31,635-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','pwd':'123456','regname':'lemon'}
+2018-11-08 22:19:31,771-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:19:31,859-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:19:31,859-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','pwd':'123456','regname':'lemon'}
+2018-11-08 22:19:32,503-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 22:19:32,577-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:19:32,578-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','amount':'10000'}
+2018-11-08 22:19:32,885-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41543, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344465291', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 22:19:34.0'}, 'msg': '充值成功'}
+2018-11-08 22:19:32,949-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:19:32,949-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:19:33,831-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:33,906-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:19:33,907-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','amount':''}
+2018-11-08 22:19:35,665-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:35,731-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:19:35,732-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465292','amount':'10000'}
+2018-11-08 22:19:35,933-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:36,001-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:19:36,001-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','amount':'100.001'}
+2018-11-08 22:19:36,164-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:36,231-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:19:36,232-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','amount':'500000.01'}
+2018-11-08 22:19:36,404-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:36,486-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:19:36,487-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','amount':'-100'}
+2018-11-08 22:19:36,660-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:19:36,771-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:19:36,772-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465291','amount':'一万'}
+2018-11-08 22:19:37,212-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:30,653-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:20:30,655-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','pwd':'123456','regname':'lemon'}
+2018-11-08 22:20:33,965-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:20:34,137-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:20:34,137-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','pwd':'123456','regname':'lemon'}
+2018-11-08 22:20:34,602-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 22:20:34,735-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:20:34,735-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','amount':'10000'}
+2018-11-08 22:20:35,003-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41545, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344465399', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 22:20:36.0'}, 'msg': '充值成功'}
+2018-11-08 22:20:35,135-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:20:35,136-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','amount':''}
+2018-11-08 22:20:35,364-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:35,482-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:20:35,482-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465400','amount':'10000'}
+2018-11-08 22:20:35,651-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:35,788-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:20:35,789-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','amount':'100.001'}
+2018-11-08 22:20:35,954-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:36,073-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:20:36,074-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','amount':'500000.01'}
+2018-11-08 22:20:36,292-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:36,451-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:20:36,452-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','amount':'-100'}
+2018-11-08 22:20:36,657-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:36,800-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:20:36,800-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465399','amount':'一万'}
+2018-11-08 22:20:36,983-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:20:37,104-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:20:37,104-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:20:37,286-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:55,134-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:33:55,134-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','pwd':'123456','regname':'lemon'}
+2018-11-08 22:33:55,248-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:33:55,378-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:33:55,378-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','pwd':'123456','regname':'lemon'}
+2018-11-08 22:33:55,673-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 22:33:55,798-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:33:55,799-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','amount':'10000'}
+2018-11-08 22:33:55,943-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41550, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344467404', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 22:33:58.0'}, 'msg': '充值成功'}
+2018-11-08 22:33:56,069-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:33:56,070-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','amount':'100.001'}
+2018-11-08 22:33:56,439-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:56,573-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:33:56,574-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','amount':'500000.01'}
+2018-11-08 22:33:56,731-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:56,857-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:33:56,858-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','amount':'-100'}
+2018-11-08 22:33:57,010-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:57,158-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:33:57,160-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','amount':'一万'}
+2018-11-08 22:33:57,316-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:57,444-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:33:57,445-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:33:57,600-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:57,768-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:33:57,769-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467404','amount':''}
+2018-11-08 22:33:57,919-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:33:58,049-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:33:58,050-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467405','amount':'10000'}
+2018-11-08 22:33:58,210-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:54,929-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:36:54,930-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','pwd':'123456','regname':'lemon'}
+2018-11-08 22:36:55,044-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:36:55,200-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:36:55,201-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','pwd':'123456','regname':'lemon'}
+2018-11-08 22:36:55,307-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 22:36:55,449-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:36:55,450-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','amount':'10000'}
+2018-11-08 22:36:55,573-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41552, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344463273', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 22:36:57.0'}, 'msg': '充值成功'}
+2018-11-08 22:36:55,707-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:36:55,708-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','amount':'100.001'}
+2018-11-08 22:36:55,862-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:55,998-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:36:55,999-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','amount':'500000.01'}
+2018-11-08 22:36:56,161-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:56,323-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:36:56,323-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','amount':'-100'}
+2018-11-08 22:36:56,477-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:56,635-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:36:56,636-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','amount':'一万'}
+2018-11-08 22:36:56,799-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:56,953-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:36:56,954-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:36:57,115-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:57,264-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:36:57,264-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463273','amount':''}
+2018-11-08 22:36:57,664-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:36:57,793-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:36:57,793-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463274','amount':'10000'}
+2018-11-08 22:36:57,951-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:26,552-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 22:38:26,553-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','pwd':'123456','regname':'lemon'}
+2018-11-08 22:38:26,671-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 22:38:26,799-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 22:38:26,800-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','pwd':'123456','regname':'lemon'}
+2018-11-08 22:38:26,917-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 22:38:27,085-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 22:38:27,086-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','amount':'10000'}
+2018-11-08 22:38:27,212-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41554, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344467444', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 22:38:29.0'}, 'msg': '充值成功'}
+2018-11-08 22:38:27,334-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 22:38:27,334-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','amount':'100.001'}
+2018-11-08 22:38:27,485-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:27,601-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 22:38:27,601-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','amount':'500000.01'}
+2018-11-08 22:38:27,759-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:27,900-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 22:38:27,901-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','amount':'-100'}
+2018-11-08 22:38:28,049-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:28,186-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 22:38:28,187-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','amount':'一万'}
+2018-11-08 22:38:28,351-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:28,485-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 22:38:28,486-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 22:38:28,640-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:28,785-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 22:38:28,785-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467444','amount':''}
+2018-11-08 22:38:28,945-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 22:38:29,070-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 22:38:29,070-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467445','amount':'10000'}
+2018-11-08 22:38:29,229-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:15,952-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:14:15,952-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','pwd':'123456','regname':'lemon'}
+2018-11-08 23:14:16,105-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:14:16,243-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:14:16,243-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','pwd':'123456','regname':'lemon'}
+2018-11-08 23:14:16,351-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:14:16,436-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:14:16,436-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','amount':'10000'}
+2018-11-08 23:14:16,828-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41566, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344462817', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:14:20.0'}, 'msg': '充值成功'}
+2018-11-08 23:14:16,902-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:14:16,902-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','amount':'100.001'}
+2018-11-08 23:14:17,327-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:17,454-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:14:17,456-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','amount':'500000.01'}
+2018-11-08 23:14:17,624-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:17,709-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:14:17,710-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','amount':'-100'}
+2018-11-08 23:14:17,871-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:17,952-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:14:17,953-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','amount':'一万'}
+2018-11-08 23:14:18,126-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:18,203-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:14:18,203-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:14:18,630-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:18,707-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:14:18,707-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462817','amount':''}
+2018-11-08 23:14:22,371-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:22,453-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:14:22,454-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462818','amount':'10000'}
+2018-11-08 23:14:22,613-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:40,271-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:14:40,272-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','pwd':'123456','regname':'lemon'}
+2018-11-08 23:14:40,977-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:14:41,107-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:14:41,108-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','pwd':'123456','regname':'lemon'}
+2018-11-08 23:14:41,624-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:14:41,779-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:14:41,780-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','amount':'10000'}
+2018-11-08 23:14:41,927-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41567, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344463379', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:14:44.0'}, 'msg': '充值成功'}
+2018-11-08 23:14:42,059-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:14:42,060-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','amount':'100.001'}
+2018-11-08 23:14:42,496-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:42,629-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:14:42,630-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','amount':'500000.01'}
+2018-11-08 23:14:43,253-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:43,379-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:14:43,380-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','amount':'-100'}
+2018-11-08 23:14:44,711-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:44,864-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:14:44,864-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','amount':'一万'}
+2018-11-08 23:14:45,361-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:45,488-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:14:45,489-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:14:46,151-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:46,311-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:14:46,312-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463379','amount':''}
+2018-11-08 23:14:46,815-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:14:47,127-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:14:47,129-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463380','amount':'10000'}
+2018-11-08 23:14:47,881-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:48,199-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:16:48,201-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','pwd':'123456','regname':'lemon'}
+2018-11-08 23:16:48,567-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:16:48,789-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:16:48,790-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','pwd':'123456','regname':'lemon'}
+2018-11-08 23:16:49,058-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:16:49,272-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:16:49,273-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','amount':'10000'}
+2018-11-08 23:16:49,423-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41570, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344466611', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:16:52.0'}, 'msg': '充值成功'}
+2018-11-08 23:16:49,641-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:16:49,642-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','amount':'100.001'}
+2018-11-08 23:16:52,141-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:52,362-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:16:52,364-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','amount':'500000.01'}
+2018-11-08 23:16:52,817-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:53,036-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:16:53,037-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','amount':'-100'}
+2018-11-08 23:16:53,315-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:53,529-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:16:53,530-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','amount':'一万'}
+2018-11-08 23:16:53,827-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:54,049-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:16:54,050-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:16:54,337-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:54,630-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:16:54,632-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466611','amount':''}
+2018-11-08 23:16:55,003-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:16:55,261-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:16:55,262-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466612','amount':'10000'}
+2018-11-08 23:16:55,469-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:05,611-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:17:05,613-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','pwd':'123456','regname':'lemon'}
+2018-11-08 23:17:05,745-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:17:05,965-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:17:05,966-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','pwd':'123456','regname':'lemon'}
+2018-11-08 23:17:06,085-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:17:06,349-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:17:06,350-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','amount':'10000'}
+2018-11-08 23:17:06,492-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41571, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344468202', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:17:09.0'}, 'msg': '充值成功'}
+2018-11-08 23:17:06,713-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:17:06,714-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','amount':'100.001'}
+2018-11-08 23:17:07,048-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:07,284-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:17:07,286-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','amount':'500000.01'}
+2018-11-08 23:17:07,498-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:07,729-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:17:07,730-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','amount':'-100'}
+2018-11-08 23:17:08,394-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:08,613-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:17:08,614-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','amount':'一万'}
+2018-11-08 23:17:08,840-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:09,052-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:17:09,053-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:17:09,242-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:09,540-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:17:09,542-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468202','amount':''}
+2018-11-08 23:17:10,536-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:10,816-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:17:10,817-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468203','amount':'10000'}
+2018-11-08 23:17:11,107-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:17,115-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:17:17,117-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','pwd':'123456','regname':'lemon'}
+2018-11-08 23:17:17,267-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:17:17,545-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:17:17,547-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','pwd':'123456','regname':'lemon'}
+2018-11-08 23:17:17,858-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:17:18,106-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:17:18,108-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','amount':'10000'}
+2018-11-08 23:17:18,539-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41572, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344465135', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:17:21.0'}, 'msg': '充值成功'}
+2018-11-08 23:17:18,907-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:17:18,909-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','amount':'100.001'}
+2018-11-08 23:17:19,129-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:19,521-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:17:19,522-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','amount':'500000.01'}
+2018-11-08 23:17:20,321-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:20,615-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:17:20,616-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','amount':'-100'}
+2018-11-08 23:17:21,246-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:21,512-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:17:21,514-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','amount':'一万'}
+2018-11-08 23:17:21,684-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:21,936-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:17:21,937-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:17:22,507-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:22,765-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:17:22,767-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465135','amount':''}
+2018-11-08 23:17:22,980-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:17:23,233-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:17:23,234-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465136','amount':'10000'}
+2018-11-08 23:17:23,666-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:19:44,756-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:19:44,757-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:45,028-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:19:45,268-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:19:45,270-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:45,742-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:45,974-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:19:45,976-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','amount':'10000'}
+2018-11-08 23:19:46,120-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41573, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344464002', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:19:49.0'}, 'msg': '充值成功'}
+2018-11-08 23:19:46,358-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:19:46,359-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:46,468-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:46,698-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:19:46,700-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','amount':'100.001'}
+2018-11-08 23:19:46,816-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-08 23:19:47,050-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:19:47,052-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:47,160-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:47,394-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:19:47,395-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','amount':'500000.01'}
+2018-11-08 23:19:47,543-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-08 23:19:47,796-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:19:47,798-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:47,945-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:48,177-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:19:48,179-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','amount':'-100'}
+2018-11-08 23:19:48,285-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-08 23:19:48,521-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:19:48,522-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:48,641-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:48,879-INFO-my_log.py-python20-日志信息:正在执行第11条测试用例
+2018-11-08 23:19:48,881-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','amount':'一万'}
+2018-11-08 23:19:48,986-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-08 23:19:49,215-INFO-my_log.py-python20-日志信息:正在执行第12条测试用例
+2018-11-08 23:19:49,217-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:49,328-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:49,578-INFO-my_log.py-python20-日志信息:正在执行第13条测试用例
+2018-11-08 23:19:49,579-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:19:49,689-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-08 23:19:50,047-INFO-my_log.py-python20-日志信息:正在执行第14条测试用例
+2018-11-08 23:19:50,049-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:50,153-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:50,387-INFO-my_log.py-python20-日志信息:正在执行第15条测试用例
+2018-11-08 23:19:50,388-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','amount':''}
+2018-11-08 23:19:50,497-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-08 23:19:50,738-INFO-my_log.py-python20-日志信息:正在执行第16条测试用例
+2018-11-08 23:19:50,740-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464002','pwd':'123456','regname':'lemon'}
+2018-11-08 23:19:50,843-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:19:51,071-INFO-my_log.py-python20-日志信息:正在执行第17条测试用例
+2018-11-08 23:19:51,108-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464003','amount':'10000'}
+2018-11-08 23:19:51,221-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20104', 'data': None, 'msg': '此手机号对应的会员不存在'}
+2018-11-08 23:24:34,230-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:24:34,232-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','pwd':'123456','regname':'lemon'}
+2018-11-08 23:24:34,363-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:24:34,636-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:24:34,637-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','pwd':'123456','regname':'lemon'}
+2018-11-08 23:24:37,742-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:24:38,008-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:24:38,009-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','amount':'10000'}
+2018-11-08 23:24:38,147-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41575, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344469926', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:24:38.0'}, 'msg': '充值成功'}
+2018-11-08 23:24:38,378-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:24:38,379-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','amount':'100.001'}
+2018-11-08 23:24:38,565-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:24:38,800-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:24:38,801-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','amount':'500000.01'}
+2018-11-08 23:24:38,966-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:24:39,201-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:24:39,202-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','amount':'-100'}
+2018-11-08 23:24:39,396-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:24:39,626-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:24:39,627-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','amount':'一万'}
+2018-11-08 23:24:39,784-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:24:40,021-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:24:40,022-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:24:40,176-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:24:40,425-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:24:40,427-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469926','amount':''}
+2018-11-08 23:24:40,607-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:24:40,859-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:24:40,861-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469927','amount':'10000'}
+2018-11-08 23:24:41,035-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:00,664-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:36:00,665-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','pwd':'123456','regname':'lemon'}
+2018-11-08 23:36:00,793-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:36:01,017-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:36:01,018-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','pwd':'123456','regname':'lemon'}
+2018-11-08 23:36:01,721-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:36:01,939-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:36:01,940-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','amount':'10000'}
+2018-11-08 23:36:02,110-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41583, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344462798', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:36:05.0'}, 'msg': '充值成功'}
+2018-11-08 23:36:02,332-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:36:02,333-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','amount':'100.001'}
+2018-11-08 23:36:02,510-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:02,735-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:36:02,737-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','amount':'500000.01'}
+2018-11-08 23:36:04,161-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:04,385-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:36:04,386-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','amount':'-100'}
+2018-11-08 23:36:04,547-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:04,772-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:36:04,774-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','amount':'一万'}
+2018-11-08 23:36:04,935-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:05,165-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:36:05,167-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:36:05,428-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:05,673-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:36:05,674-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462798','amount':''}
+2018-11-08 23:36:06,244-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:36:06,519-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:36:06,521-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462799','amount':'10000'}
+2018-11-08 23:36:06,684-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:14,942-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-08 23:50:14,945-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','pwd':'123456','regname':'lemon'}
+2018-11-08 23:50:15,090-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-08 23:50:15,383-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-08 23:50:15,385-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','pwd':'123456','regname':'lemon'}
+2018-11-08 23:50:15,756-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-08 23:50:16,029-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-08 23:50:16,031-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','amount':'10000'}
+2018-11-08 23:50:16,169-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41589, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344468414', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-08 23:50:19.0'}, 'msg': '充值成功'}
+2018-11-08 23:50:16,552-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-08 23:50:16,553-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','amount':'100.001'}
+2018-11-08 23:50:16,726-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:17,022-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-08 23:50:17,024-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','amount':'500000.01'}
+2018-11-08 23:50:17,197-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:17,458-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-08 23:50:17,461-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','amount':'-100'}
+2018-11-08 23:50:17,646-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:17,931-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-08 23:50:17,933-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','amount':'一万'}
+2018-11-08 23:50:18,565-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:18,853-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-08 23:50:18,854-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-08 23:50:20,813-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:21,202-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-08 23:50:21,204-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468414','amount':''}
+2018-11-08 23:50:21,594-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-08 23:50:23,772-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-08 23:50:23,781-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468415','amount':'10000'}
+2018-11-08 23:50:24,227-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:44,489-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 20:07:44,554-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','pwd':'123456','regname':'lemon'}
+2018-11-09 20:07:44,673-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 20:07:44,797-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 20:07:44,798-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','pwd':'123456','regname':'lemon'}
+2018-11-09 20:07:44,907-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-09 20:07:45,047-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 20:07:45,048-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','amount':'10000'}
+2018-11-09 20:07:45,166-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41774, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344467420', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-09 20:07:47.0'}, 'msg': '充值成功'}
+2018-11-09 20:07:45,300-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 20:07:45,301-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','amount':'100.001'}
+2018-11-09 20:07:45,456-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:45,623-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 20:07:45,624-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','amount':'500000.01'}
+2018-11-09 20:07:45,773-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:46,017-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 20:07:46,018-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','amount':'-100'}
+2018-11-09 20:07:46,172-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:46,355-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 20:07:46,356-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','amount':'一万'}
+2018-11-09 20:07:46,511-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:46,700-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-09 20:07:46,700-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-09 20:07:46,870-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:47,015-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-09 20:07:47,016-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467420','amount':''}
+2018-11-09 20:07:47,183-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:07:47,322-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-09 20:07:47,323-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467421','amount':'10000'}
+2018-11-09 20:07:47,484-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': None, 'data': None, 'msg': '抱歉，请先登录。'}
+2018-11-09 20:11:35,651-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 20:11:35,652-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','pwd':'123456','regname':'lemon'}
+2018-11-09 20:11:35,767-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 20:11:35,907-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 20:11:35,908-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','pwd':'123456','regname':'lemon'}
+2018-11-09 20:11:36,018-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-09 20:11:36,153-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 20:11:36,154-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','amount':'10000'}
+2018-11-09 20:11:36,269-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41777, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344466968', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-09 20:11:38.0'}, 'msg': '充值成功'}
+2018-11-09 20:11:36,399-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 20:11:36,399-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','amount':'100.001'}
+2018-11-09 20:11:36,746-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-09 20:11:36,873-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 20:11:36,873-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','amount':'500000.01'}
+2018-11-09 20:11:36,972-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-09 20:11:37,086-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 20:11:37,087-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','amount':'-100'}
+2018-11-09 20:11:37,188-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-09 20:11:37,299-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 20:11:37,300-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','amount':'一万'}
+2018-11-09 20:11:37,401-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-09 20:11:37,538-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-09 20:11:37,539-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-09 20:11:37,638-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-09 20:11:37,775-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-09 20:11:37,776-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466968','amount':''}
+2018-11-09 20:11:37,876-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-09 20:11:38,002-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-09 20:11:38,002-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466969','amount':'10000'}
+2018-11-09 20:11:38,108-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20104', 'data': None, 'msg': '此手机号对应的会员不存在'}
+2018-11-09 20:13:32,249-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 20:13:32,250-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','pwd':'123456','regname':'lemon'}
+2018-11-09 20:13:32,366-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 20:13:32,511-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 20:13:32,512-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','pwd':'123456','regname':'lemon'}
+2018-11-09 20:13:32,613-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-09 20:13:32,736-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 20:13:32,737-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','amount':'10000'}
+2018-11-09 20:13:32,852-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41779, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344465300', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-09 20:13:35.0'}, 'msg': '充值成功'}
+2018-11-09 20:13:32,988-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 20:13:32,989-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','amount':'100.001'}
+2018-11-09 20:13:33,089-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-09 20:13:33,223-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 20:13:33,224-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','amount':'500000.01'}
+2018-11-09 20:13:33,325-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-09 20:13:33,458-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 20:13:33,459-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','amount':'-100'}
+2018-11-09 20:13:33,556-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-09 20:13:33,686-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 20:13:33,687-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','amount':'一万'}
+2018-11-09 20:13:33,792-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-09 20:13:33,927-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-09 20:13:33,928-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-09 20:13:34,029-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-09 20:13:34,168-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-09 20:13:34,169-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465300','amount':''}
+2018-11-09 20:13:34,262-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-09 20:13:34,401-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-09 20:13:34,402-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465301','amount':'10000'}
+2018-11-09 20:13:34,514-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20104', 'data': None, 'msg': '此手机号对应的会员不存在'}
+2018-11-09 23:06:59,820-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:06:59,840-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461360','pwd':'123456','regname':'lemon'}
+2018-11-09 23:07:00,012-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:07:00,014-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461360','pwd':'123456','regname':'lemon'}
+2018-11-09 23:07:00,120-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:07:00,121-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-09 23:07:00,235-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:07:00,237-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-09 23:07:38,380-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:07:38,382-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466993','pwd':'123456','regname':'lemon'}
+2018-11-09 23:07:38,506-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:07:38,507-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466993','pwd':'123456','regname':'lemon'}
+2018-11-09 23:07:38,614-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:07:38,615-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-09 23:07:38,722-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:07:38,724-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-09 23:19:06,648-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:19:06,649-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463307','pwd':'123456','regname':'lemon'}
+2018-11-09 23:19:06,652-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:19:06,653-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463307','pwd':'123456','regname':'lemon'}
+2018-11-09 23:19:06,655-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:19:06,656-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-09 23:19:06,658-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:19:06,659-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-09 23:21:56,737-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:21:56,739-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461654','pwd':'123456','regname':'lemon'}
+2018-11-09 23:21:56,742-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:21:56,743-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461654','pwd':'123456','regname':'lemon'}
+2018-11-09 23:21:56,744-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:21:56,745-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461655','pwd':'123456'}
+2018-11-09 23:21:56,747-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:21:56,748-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:21:56,749-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:21:56,750-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461656','pwd':'','regname':'lemon'}
+2018-11-09 23:21:56,751-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:21:56,752-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:21:56,753-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:21:56,753-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461657','pwd':'12345','regname':'lemon'}
+2018-11-09 23:27:26,344-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:27:26,345-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468584','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:26,462-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:27:26,636-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:27:26,637-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468584','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:26,732-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:26,808-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:27:26,809-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468585','pwd':'123456'}
+2018-11-09 23:27:26,908-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:27,045-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:27:27,046-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:27,145-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:27,218-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:27:27,219-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468586','pwd':'','regname':'lemon'}
+2018-11-09 23:27:27,491-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:27,569-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:27:27,571-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:27,672-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:27,757-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:27:27,758-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468587','pwd':'12345','regname':'lemon'}
+2018-11-09 23:27:27,862-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:36,628-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:27:36,630-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464727','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:36,749-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:27:37,050-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:37,186-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:27:37,187-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464727','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:37,287-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:37,563-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:37,806-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:27:37,950-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:27:37,951-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464728','pwd':'123456'}
+2018-11-09 23:27:38,052-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:38,225-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:27:38,226-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:38,330-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:38,471-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:27:38,472-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464729','pwd':'','regname':'lemon'}
+2018-11-09 23:27:38,627-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:38,770-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:27:38,771-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:27:38,886-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:27:39,022-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:27:39,023-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464730','pwd':'12345','regname':'lemon'}
+2018-11-09 23:27:39,127-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:30:45,938-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:30:45,940-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463183','pwd':'123456','regname':'lemon'}
+2018-11-09 23:30:46,055-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:30:46,133-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:30:46,133-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463183','pwd':'123456','regname':'lemon'}
+2018-11-09 23:30:46,240-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:30:46,317-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:30:46,318-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463184','pwd':'123456'}
+2018-11-09 23:30:46,992-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:30:47,075-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:30:47,076-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:30:47,184-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:30:47,260-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:30:47,260-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463185','pwd':'','regname':'lemon'}
+2018-11-09 23:30:47,365-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:30:47,436-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:30:47,438-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:30:47,541-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:30:47,617-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:30:47,618-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463186','pwd':'12345','regname':'lemon'}
+2018-11-09 23:30:47,716-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:28,343-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:31:28,344-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465796','pwd':'123456','regname':'lemon'}
+2018-11-09 23:31:28,460-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:31:29,194-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:29,338-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:31:29,339-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465796','pwd':'123456','regname':'lemon'}
+2018-11-09 23:31:29,439-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:29,678-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:29,929-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:31:30,068-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:31:30,069-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465797','pwd':'123456'}
+2018-11-09 23:31:30,171-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:30,313-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:31:30,314-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:31:30,415-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:30,571-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:31:30,571-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465798','pwd':'','regname':'lemon'}
+2018-11-09 23:31:30,673-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:30,812-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:31:30,813-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:31:30,916-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:31:31,058-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:31:31,059-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465799','pwd':'12345','regname':'lemon'}
+2018-11-09 23:31:31,161-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:12,989-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:33:12,990-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467593','pwd':'123456','regname':'lemon'}
+2018-11-09 23:33:13,108-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:33:13,352-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:13,491-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:33:13,492-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467593','pwd':'123456','regname':'lemon'}
+2018-11-09 23:33:13,596-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:13,836-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:14,081-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:33:14,218-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:33:14,219-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467594','pwd':'123456'}
+2018-11-09 23:33:14,315-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:14,462-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:33:14,463-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:33:14,569-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:14,712-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:33:14,714-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467595','pwd':'','regname':'lemon'}
+2018-11-09 23:33:14,824-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:14,962-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:33:14,963-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:33:15,060-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:33:15,236-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:33:15,237-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467596','pwd':'12345','regname':'lemon'}
+2018-11-09 23:33:15,336-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:37:03,365-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:37:03,367-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461926','pwd':'123456','regname':'lemon'}
+2018-11-09 23:37:03,372-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:37:03,373-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461926','pwd':'123456','regname':'lemon'}
+2018-11-09 23:37:03,375-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:37:03,376-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461927','pwd':'123456'}
+2018-11-09 23:37:03,377-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:37:03,378-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:37:03,379-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:37:03,380-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461928','pwd':'','regname':'lemon'}
+2018-11-09 23:37:03,381-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:37:03,382-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:37:03,383-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:37:03,384-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461929','pwd':'12345','regname':'lemon'}
+2018-11-09 23:47:03,696-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:47:03,697-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465682','pwd':'123456','regname':'lemon'}
+2018-11-09 23:47:03,700-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:47:03,701-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465682','pwd':'123456','regname':'lemon'}
+2018-11-09 23:47:03,702-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:47:03,702-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465683','pwd':'123456'}
+2018-11-09 23:47:03,704-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:47:03,704-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:47:03,706-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:47:03,706-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465684','pwd':'','regname':'lemon'}
+2018-11-09 23:47:03,708-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:47:03,709-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:47:03,710-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:47:03,710-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465685','pwd':'12345','regname':'lemon'}
+2018-11-09 23:48:53,540-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:48:53,541-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461750','pwd':'123456','regname':'lemon'}
+2018-11-09 23:48:53,544-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:48:53,545-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461750','pwd':'123456','regname':'lemon'}
+2018-11-09 23:48:53,546-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:48:53,551-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461751','pwd':'123456'}
+2018-11-09 23:48:53,552-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:48:53,553-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:48:53,554-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:48:53,555-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461752','pwd':'','regname':'lemon'}
+2018-11-09 23:48:53,556-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:48:53,557-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:48:53,558-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:48:53,559-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461753','pwd':'12345','regname':'lemon'}
+2018-11-09 23:50:13,876-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:50:13,877-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468416','pwd':'123456','regname':'lemon'}
+2018-11-09 23:50:13,881-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:50:13,882-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468416','pwd':'123456','regname':'lemon'}
+2018-11-09 23:50:13,883-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:50:13,884-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468417','pwd':'123456'}
+2018-11-09 23:50:13,885-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:50:13,886-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:50:13,887-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:50:13,888-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468418','pwd':'','regname':'lemon'}
+2018-11-09 23:50:13,890-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:50:13,891-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:50:13,892-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:50:13,893-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468419','pwd':'12345','regname':'lemon'}
+2018-11-09 23:54:38,842-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:54:38,843-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462420','pwd':'123456','regname':'lemon'}
+2018-11-09 23:54:38,845-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:54:38,846-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462420','pwd':'123456','regname':'lemon'}
+2018-11-09 23:54:38,848-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:54:38,848-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462421','pwd':'123456'}
+2018-11-09 23:54:38,849-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:54:38,850-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:54:38,851-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:54:38,852-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462422','pwd':'','regname':'lemon'}
+2018-11-09 23:54:38,854-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:54:38,855-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:54:38,857-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:54:38,858-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344462423','pwd':'12345','regname':'lemon'}
+2018-11-09 23:57:02,520-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:57:02,521-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464888','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:02,641-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:57:02,747-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:57:02,748-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464888','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:02,852-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:57:02,946-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:57:02,947-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464889','pwd':'123456'}
+2018-11-09 23:57:03,065-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:57:03,157-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:57:03,158-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:03,261-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-09 23:57:03,347-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:57:03,348-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464890','pwd':'','regname':'lemon'}
+2018-11-09 23:57:03,450-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-09 23:57:03,541-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:57:03,542-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:03,791-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-09 23:57:03,870-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:57:03,871-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464891','pwd':'12345','regname':'lemon'}
+2018-11-09 23:57:06,782-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-09 23:57:31,148-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-09 23:57:31,149-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464875','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:31,258-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:57:31,407-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-09 23:57:31,408-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464875','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:31,508-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-09 23:57:31,657-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-09 23:57:31,659-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464876','pwd':'123456'}
+2018-11-09 23:57:31,909-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-09 23:57:32,063-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-09 23:57:32,064-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:32,166-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-09 23:57:32,309-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-09 23:57:32,310-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464877','pwd':'','regname':'lemon'}
+2018-11-09 23:57:32,416-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-09 23:57:32,570-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-09 23:57:32,571-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-09 23:57:32,675-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-09 23:57:32,838-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-09 23:57:32,839-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464878','pwd':'12345','regname':'lemon'}
+2018-11-09 23:57:32,944-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-10 08:46:43,952-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-10 08:46:43,972-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}
+2018-11-10 08:46:43,973-INFO-my_log.py-python20-日志信息:[{'id': 1, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/register', 'description': '注册', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 2, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/login', 'description': '登录', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 3, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/add', 'description': '加标', 'param': "{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}", 'expected': 10001}, {'id': 4, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/audit', 'description': '审核', 'param': "{'id':'loan_id','status':'4'}", 'expected': 10001}]
+2018-11-10 08:46:44,102-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-10 08:46:44,395-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-10 08:46:44,396-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}
+2018-11-10 08:46:44,397-INFO-my_log.py-python20-日志信息:[{'id': 1, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/register', 'description': '注册', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 2, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/login', 'description': '登录', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 3, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/add', 'description': '加标', 'param': "{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}", 'expected': 10001}, {'id': 4, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/audit', 'description': '审核', 'param': "{'id':'loan_id','status':'4'}", 'expected': 10001}]
+2018-11-10 08:46:44,498-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-10 08:46:44,652-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-10 08:46:44,653-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-10 08:46:44,653-INFO-my_log.py-python20-日志信息:[{'id': 1, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/register', 'description': '注册', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 2, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/login', 'description': '登录', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 3, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/add', 'description': '加标', 'param': "{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}", 'expected': 10001}, {'id': 4, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/audit', 'description': '审核', 'param': "{'id':'loan_id','status':'4'}", 'expected': 10001}]
+2018-11-10 08:46:46,423-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '加标成功'}
+2018-11-10 08:46:46,575-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-10 08:46:46,576-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-10 08:46:46,577-INFO-my_log.py-python20-日志信息:[{'id': 1, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/register', 'description': '注册', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 2, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/member/login', 'description': '登录', 'param': "{'mobilephone':'13344464990','pwd':'123456','regname':'lemon'}", 'expected': 10001}, {'id': 3, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/add', 'description': '加标', 'param': "{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}", 'expected': 10001}, {'id': 4, 'method': 'get', 'module': 'http://119.23.241.154:8080/futureloan/mvc/api/loan/audit', 'description': '审核', 'param': "{'id':'loan_id','status':'4'}", 'expected': 10001}]
+2018-11-10 08:46:46,677-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20212', 'data': None, 'msg': '请根据数值参数的类型对应输入合法的数字'}
+2018-11-10 08:51:35,507-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-10 08:51:35,508-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469741','pwd':'123456','regname':'lemon'}
+2018-11-10 08:51:35,622-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-10 08:51:35,764-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-10 08:51:35,765-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469741','pwd':'123456','regname':'lemon'}
+2018-11-10 08:51:35,885-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-10 08:51:36,029-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-10 08:51:36,030-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469742','pwd':'123456'}
+2018-11-10 08:51:36,227-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-10 08:51:36,366-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-10 08:51:36,367-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-10 08:51:36,503-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-10 08:51:36,652-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-10 08:51:36,653-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469743','pwd':'','regname':'lemon'}
+2018-11-10 08:51:36,835-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-10 08:51:36,981-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-10 08:51:36,981-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-10 08:51:37,112-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-10 08:51:37,259-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-10 08:51:37,260-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469744','pwd':'12345','regname':'lemon'}
+2018-11-10 08:51:37,443-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-10 08:51:55,164-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-10 08:51:55,165-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464035','pwd':'123456','regname':'lemon'}
+2018-11-10 08:51:56,089-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-10 08:51:56,244-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-10 08:51:56,245-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464035','pwd':'123456','regname':'lemon'}
+2018-11-10 08:51:56,354-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-10 08:51:56,490-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-10 08:51:56,491-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-10 08:51:56,600-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '加标成功'}
+2018-11-10 08:51:56,736-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-10 08:51:56,737-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-10 08:55:03,341-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-10 08:55:03,342-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464035','pwd':'123456','regname':'lemon'}
+2018-11-10 08:55:03,450-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-10 08:55:03,581-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-10 08:55:03,582-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464035','pwd':'123456','regname':'lemon'}
+2018-11-10 08:55:03,681-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-10 08:55:03,818-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-10 08:55:03,818-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-10 08:55:03,931-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '加标成功'}
+2018-11-10 08:55:04,072-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-10 08:55:04,073-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-10 08:55:04,749-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态'}
+2018-11-10 08:55:29,630-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-10 08:55:29,631-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469240','pwd':'123456','regname':'lemon'}
+2018-11-10 08:55:29,748-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-10 08:55:29,891-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-10 08:55:29,892-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469240','pwd':'123456','regname':'lemon'}
+2018-11-10 08:55:30,001-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-10 08:55:30,141-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-10 08:55:30,142-INFO-my_log.py-python20-日志信息:测试数据是：{'memberId':'23702','title':'加标','amount':'10000','loanRate':'12.0','loanTerm':'6','loanDateType':'0','repaymemtWay':'4','biddingDays':'11'}
+2018-11-10 08:55:30,245-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '加标成功'}
+2018-11-10 08:55:30,386-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-10 08:55:30,386-INFO-my_log.py-python20-日志信息:测试数据是：{'id':'loan_id','status':'4'}
+2018-11-10 08:55:31,653-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态'}
+2018-11-11 11:37:31,624-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 11:37:31,650-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463181','pwd':'123456','regname':'lemon'}
+2018-11-11 11:37:52,669-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344463181&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03593910>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:37:52,842-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 11:37:52,842-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463181','pwd':'123456','regname':'lemon'}
+2018-11-11 11:38:13,835-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03530E30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:38:13,840-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 11:38:13,840-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 11:42:32,346-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 11:42:32,347-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465825','pwd':'123456','regname':'lemon'}
+2018-11-11 11:42:53,351-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344465825&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x035638F0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:42:53,362-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 11:42:53,363-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465825','pwd':'123456','regname':'lemon'}
+2018-11-11 11:43:14,357-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03500CF0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:43:14,362-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 11:43:14,362-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 11:43:35,366-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03512510>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:43:35,370-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 11:43:35,371-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465827','pwd':'','regname':'lemon'}
+2018-11-11 11:43:56,379-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344465827&pwd=&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03512F90>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:43:56,384-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 11:43:56,384-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465825','pwd':'123456','regname':'lemon'}
+2018-11-11 11:44:17,396-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344465825&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03512F30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:44:17,403-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 11:44:17,404-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344465825','pwd':'123456','regname':'lemon'}
+2018-11-11 11:44:43,302-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 11:44:43,303-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467800','pwd':'123456','regname':'lemon'}
+2018-11-11 11:45:04,310-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344467800&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03520230>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:45:04,320-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 11:45:04,321-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467800','pwd':'123456','regname':'lemon'}
+2018-11-11 11:45:25,324-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x035369F0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:50:27,279-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 11:50:27,280-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468728','pwd':'123456','regname':'lemon'}
+2018-11-11 11:55:12,038-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 11:55:12,039-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466287','pwd':'123456','regname':'lemon'}
+2018-11-11 11:55:33,043-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344466287&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x035800F0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 11:55:33,055-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 11:55:33,055-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466287','pwd':'123456','regname':'lemon'}
+2018-11-11 11:55:54,044-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03596290>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 12:00:15,978-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 12:00:15,979-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469226','pwd':'123456','regname':'lemon'}
+2018-11-11 12:00:36,985-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344469226&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0359EB30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 12:00:36,994-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 12:00:36,995-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469226','pwd':'123456','regname':'lemon'}
+2018-11-11 12:00:57,993-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x035E5710>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 12:01:11,517-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 12:01:11,517-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467787','pwd':'123456','regname':'lemon'}
+2018-11-11 12:01:32,518-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344467787&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03521290>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 12:01:32,529-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 12:01:32,530-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467787','pwd':'123456','regname':'lemon'}
+2018-11-11 12:01:53,523-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03536BD0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 12:08:38,329-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=tel_1&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x02ACAD10>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 12:09:27,050-ERROR-my_log.py-python20-日志信息:错误是：HTTPConnectionPool(host='119.23.241.154', port=8080): Max retries exceeded with url: /futureloan/mvc/api/member/register?mobilephone=13344445667&pwd=123456&regname=lemon (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x02B0ACF0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-11-11 14:54:20,209-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 14:54:20,227-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469267','pwd':'123456','regname':'lemon'}
+2018-11-11 14:54:20,677-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 14:54:20,823-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 14:54:20,823-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469267','pwd':'123456','regname':'lemon'}
+2018-11-11 14:54:22,111-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 14:57:43,993-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 14:57:43,993-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468427','pwd':'123456','regname':'lemon'}
+2018-11-11 14:57:46,145-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 14:57:46,458-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 14:57:46,460-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468427','pwd':'123456','regname':'lemon'}
+2018-11-11 14:57:48,128-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 14:58:58,572-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 14:58:58,573-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'123456','regname':'lemon'}
+2018-11-11 14:58:58,689-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 14:58:58,845-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 14:58:58,846-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'123456','regname':'lemon'}
+2018-11-11 14:58:58,974-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 14:58:59,238-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 14:58:59,239-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463622','pwd':'123456'}
+2018-11-11 14:58:59,360-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 14:58:59,596-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 14:58:59,598-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 14:58:59,712-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 14:58:59,857-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 14:58:59,857-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463623','pwd':'','regname':'lemon'}
+2018-11-11 14:58:59,959-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 14:59:00,107-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 14:59:00,108-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:00,208-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 14:59:00,361-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 14:59:00,362-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463624','pwd':'12345','regname':'lemon'}
+2018-11-11 14:59:00,487-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 14:59:00,688-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 14:59:00,689-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:00,791-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 14:59:00,987-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 14:59:00,988-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:01,087-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 14:59:01,236-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 14:59:01,237-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:01,336-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 14:59:01,490-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 14:59:01,491-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'','regname':'lemon'}
+2018-11-11 14:59:01,587-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 14:59:01,725-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 14:59:01,726-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:01,833-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 14:59:01,998-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 14:59:01,999-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'12345','regname':'lemon'}
+2018-11-11 14:59:02,102-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 14:59:02,341-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 14:59:02,342-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:02,450-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 14:59:02,646-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 14:59:02,647-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','pwd':'123456','regname':'lemon'}
+2018-11-11 14:59:02,762-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 14:59:02,931-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 14:59:02,932-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','amount':'10000'}
+2018-11-11 14:59:03,057-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41725, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344463621', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 14:59:08.0'}, 'msg': '充值成功'}
+2018-11-11 14:59:03,253-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 14:59:03,254-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','amount':'100.001'}
+2018-11-11 14:59:03,353-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 14:59:03,528-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 14:59:03,529-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','amount':'500000.01'}
+2018-11-11 14:59:03,630-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 14:59:03,825-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 14:59:03,826-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','amount':'-100'}
+2018-11-11 14:59:03,926-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 14:59:04,077-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 14:59:04,078-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','amount':'一万'}
+2018-11-11 14:59:04,178-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 14:59:04,422-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 14:59:04,424-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 14:59:04,527-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 14:59:04,692-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 14:59:04,693-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463621','amount':''}
+2018-11-11 14:59:04,795-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 14:59:04,983-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-11 14:59:04,984-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344463622','amount':'10000'}
+2018-11-11 14:59:05,114-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41726, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344463622', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 14:59:08.0'}, 'msg': '充值成功'}
+2018-11-11 15:01:03,373-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:01:03,374-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:03,487-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:01:03,620-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:01:03,621-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:03,721-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:01:03,848-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:01:03,849-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469973','pwd':'123456'}
+2018-11-11 15:01:03,961-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:01:04,109-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:01:04,110-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:04,216-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:01:04,360-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:01:04,361-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469974','pwd':'','regname':'lemon'}
+2018-11-11 15:01:04,456-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:01:04,591-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:01:04,592-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:04,689-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 15:01:04,833-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:01:04,834-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469975','pwd':'12345','regname':'lemon'}
+2018-11-11 15:01:05,002-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 15:01:05,156-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:01:05,157-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:05,261-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:01:05,401-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:01:05,402-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:05,521-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:01:05,666-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:01:05,668-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:05,770-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:01:05,925-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:01:05,926-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'','regname':'lemon'}
+2018-11-11 15:01:06,032-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:01:06,160-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:01:06,161-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:06,263-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:01:06,398-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:01:06,398-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'12345','regname':'lemon'}
+2018-11-11 15:01:06,511-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:01:06,645-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:01:06,646-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:06,759-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:01:06,903-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:01:06,904-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','pwd':'123456','regname':'lemon'}
+2018-11-11 15:01:07,006-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:01:07,190-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:01:07,191-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','amount':'10000'}
+2018-11-11 15:01:07,320-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41727, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344469972', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:01:12.0'}, 'msg': '充值成功'}
+2018-11-11 15:01:07,467-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:01:07,468-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','amount':'100.001'}
+2018-11-11 15:01:07,575-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 15:01:07,720-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:01:07,721-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','amount':'500000.01'}
+2018-11-11 15:01:07,818-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:01:07,951-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:01:07,952-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','amount':'-100'}
+2018-11-11 15:01:08,100-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:01:08,238-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:01:08,239-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','amount':'一万'}
+2018-11-11 15:01:08,345-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 15:01:08,489-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 15:01:08,490-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 15:01:08,607-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:01:08,742-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 15:01:08,743-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469972','amount':''}
+2018-11-11 15:01:08,844-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 15:01:08,979-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-11 15:01:08,979-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344469973','amount':'10000'}
+2018-11-11 15:01:09,104-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41728, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344469973', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:01:13.0'}, 'msg': '充值成功'}
+2018-11-11 15:02:33,246-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:02:33,248-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:33,370-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:02:33,569-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:02:33,570-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:33,672-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:02:33,747-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:02:33,748-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464140','pwd':'123456'}
+2018-11-11 15:02:33,860-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:02:33,944-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:02:33,944-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:34,047-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:02:34,126-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:02:34,126-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464141','pwd':'','regname':'lemon'}
+2018-11-11 15:02:34,225-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:02:34,304-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:02:34,305-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:34,402-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 15:02:34,492-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:02:34,492-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464142','pwd':'12345','regname':'lemon'}
+2018-11-11 15:02:34,590-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 15:02:34,660-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:02:34,660-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:34,763-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:02:34,891-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:02:34,892-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:34,994-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:02:35,086-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:02:35,087-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:35,182-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:02:35,272-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:02:35,273-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'','regname':'lemon'}
+2018-11-11 15:02:35,371-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:02:35,464-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:02:35,466-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:35,573-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:02:35,659-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:02:35,659-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'12345','regname':'lemon'}
+2018-11-11 15:02:35,762-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:02:35,832-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:02:35,832-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:35,937-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:02:36,025-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:02:36,025-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:36,132-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:02:36,234-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:02:36,237-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','amount':'10000'}
+2018-11-11 15:02:36,367-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41729, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344464139', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:02:42.0'}, 'msg': '充值成功'}
+2018-11-11 15:02:36,449-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:02:36,450-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','amount':'100.001'}
+2018-11-11 15:02:36,548-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 15:02:36,635-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:02:36,636-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','amount':'500000.01'}
+2018-11-11 15:02:36,736-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:02:36,809-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:02:36,810-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','amount':'-100'}
+2018-11-11 15:02:36,918-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:02:36,995-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:02:36,996-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','amount':'一万'}
+2018-11-11 15:02:37,111-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 15:02:37,194-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 15:02:37,194-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 15:02:37,296-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:02:37,387-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 15:02:37,388-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464139','amount':''}
+2018-11-11 15:02:37,485-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 15:02:37,557-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-11 15:02:37,558-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464140','amount':'10000'}
+2018-11-11 15:02:37,681-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41730, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344464140', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:02:43.0'}, 'msg': '充值成功'}
+2018-11-11 15:02:47,268-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:02:47,269-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:47,389-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:02:47,713-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:02:47,713-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:47,816-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:02:48,126-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:02:48,126-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468059','pwd':'123456'}
+2018-11-11 15:02:48,238-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:02:48,579-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:02:48,580-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:48,728-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:02:49,060-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:02:49,061-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468060','pwd':'','regname':'lemon'}
+2018-11-11 15:02:49,184-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:02:49,511-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:02:49,512-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:49,656-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 15:02:49,966-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:02:49,966-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468061','pwd':'12345','regname':'lemon'}
+2018-11-11 15:02:50,102-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 15:02:50,425-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:02:50,425-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:50,527-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:02:50,852-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:02:50,853-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:50,964-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:02:51,277-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:02:51,278-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:51,376-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:02:51,698-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:02:51,699-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'','regname':'lemon'}
+2018-11-11 15:02:51,798-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:02:52,151-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:02:52,151-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:52,252-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:02:52,581-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:02:52,582-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'12345','regname':'lemon'}
+2018-11-11 15:02:52,689-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:02:53,091-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:02:53,092-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:53,194-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:02:53,499-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:02:53,500-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','pwd':'123456','regname':'lemon'}
+2018-11-11 15:02:55,119-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:02:55,493-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:02:55,493-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','amount':'10000'}
+2018-11-11 15:02:55,616-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41731, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344468058', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:02:56.0'}, 'msg': '充值成功'}
+2018-11-11 15:02:55,942-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:02:55,943-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','amount':'100.001'}
+2018-11-11 15:02:56,043-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 15:02:56,373-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:02:56,374-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','amount':'500000.01'}
+2018-11-11 15:02:56,471-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:02:56,787-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:02:56,788-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','amount':'-100'}
+2018-11-11 15:02:56,893-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:02:57,241-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:02:57,242-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','amount':'一万'}
+2018-11-11 15:02:57,346-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 15:02:57,717-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 15:02:57,717-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 15:02:57,831-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:02:58,149-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 15:02:58,150-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468058','amount':''}
+2018-11-11 15:02:58,250-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 15:02:58,577-INFO-my_log.py-python20-日志信息:正在执行第10条测试用例
+2018-11-11 15:02:58,577-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344468059','amount':'10000'}
+2018-11-11 15:02:58,703-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41732, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344468059', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:02:57.0'}, 'msg': '充值成功'}
+2018-11-11 15:14:57,148-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:14:57,148-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','pwd':'123456','regname':'lemon'}
+2018-11-11 15:14:57,275-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:14:57,599-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:14:57,599-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','pwd':'123456','regname':'lemon'}
+2018-11-11 15:14:57,703-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:14:57,997-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:14:57,998-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467997','pwd':'123456'}
+2018-11-11 15:14:58,114-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:14:58,433-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:14:58,433-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:14:58,536-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:14:58,860-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:14:58,861-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467998','pwd':'','regname':'lemon'}
+2018-11-11 15:14:58,956-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:14:59,258-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:14:59,258-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:14:59,359-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 15:14:59,678-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:14:59,679-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467999','pwd':'12345','regname':'lemon'}
+2018-11-11 15:14:59,777-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 15:15:00,070-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:15:00,071-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','pwd':'123456','regname':'lemon'}
+2018-11-11 15:15:00,280-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:15:00,564-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:15:00,565-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:15:00,701-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:15:00,997-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:15:00,998-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','pwd':'','regname':'lemon'}
+2018-11-11 15:15:01,196-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:15:01,498-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:15:01,499-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:15:01,732-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:15:02,033-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:15:02,034-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','pwd':'12345','regname':'lemon'}
+2018-11-11 15:15:02,242-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:15:02,539-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:15:02,540-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','pwd':'123456','regname':'lemon'}
+2018-11-11 15:15:02,730-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:15:03,027-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:15:03,028-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','amount':'10000'}
+2018-11-11 15:15:03,315-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41733, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344467996', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:15:07.0'}, 'msg': '充值成功'}
+2018-11-11 15:15:03,613-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:15:03,614-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','amount':'100.001'}
+2018-11-11 15:15:03,788-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 15:15:04,089-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:15:04,090-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','amount':'500000.01'}
+2018-11-11 15:15:04,294-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:15:04,586-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:15:04,587-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','amount':'-100'}
+2018-11-11 15:15:04,686-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:15:04,987-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:15:04,988-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','amount':'一万'}
+2018-11-11 15:15:05,106-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 15:15:05,418-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:15:05,418-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 15:15:06,510-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:15:06,833-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 15:15:06,834-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467996','amount':''}
+2018-11-11 15:15:06,929-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 15:15:07,259-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 15:15:07,260-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344467997','amount':'10000'}
+2018-11-11 15:15:07,378-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41734, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344467997', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:15:07.0'}, 'msg': '充值成功'}
+2018-11-11 15:23:33,601-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:23:33,602-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:33,859-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:23:34,204-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:23:34,205-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:35,426-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 15:23:35,723-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:23:35,724-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464424','pwd':'123456'}
+2018-11-11 15:23:35,831-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 15:23:36,135-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:23:36,136-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:36,236-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:23:36,547-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:23:36,548-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464425','pwd':'','regname':'lemon'}
+2018-11-11 15:23:36,655-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:23:37,009-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:23:37,010-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:37,107-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 15:23:37,409-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:23:37,410-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464426','pwd':'12345','regname':'lemon'}
+2018-11-11 15:23:37,508-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 15:23:37,813-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:23:37,814-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:37,921-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:23:38,236-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:23:38,237-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:38,405-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:23:38,708-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:23:38,709-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','pwd':'','regname':'lemon'}
+2018-11-11 15:23:38,811-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 15:23:39,119-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:23:39,120-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:39,229-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:23:39,542-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:23:39,542-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','pwd':'12345','regname':'lemon'}
+2018-11-11 15:23:39,671-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 15:23:39,974-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 15:23:39,975-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','pwd':'123456','regname':'lemon'}
+2018-11-11 15:23:40,084-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 15:23:40,406-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 15:23:40,407-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','amount':'10000'}
+2018-11-11 15:23:40,534-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41736, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344464423', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:23:43.0'}, 'msg': '充值成功'}
+2018-11-11 15:23:40,850-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 15:23:40,851-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','amount':'100.001'}
+2018-11-11 15:23:40,949-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 15:23:41,248-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 15:23:41,249-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','amount':'500000.01'}
+2018-11-11 15:23:41,352-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:23:41,665-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 15:23:41,666-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','amount':'-100'}
+2018-11-11 15:23:41,766-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 15:23:42,081-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 15:23:42,082-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','amount':'一万'}
+2018-11-11 15:23:42,190-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 15:23:42,510-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 15:23:42,510-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 15:23:42,616-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 15:23:42,944-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 15:23:42,945-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464423','amount':''}
+2018-11-11 15:23:43,054-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 15:23:43,367-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 15:23:43,367-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344464424','amount':'10000'}
+2018-11-11 15:23:43,531-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41737, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344464424', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 15:23:45.0'}, 'msg': '充值成功'}
+2018-11-11 16:03:43,735-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 16:03:43,737-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:43,867-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 16:03:44,031-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 16:03:44,032-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:44,141-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 16:03:44,318-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 16:03:44,319-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461372','pwd':'123456'}
+2018-11-11 16:03:44,433-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 16:03:44,613-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 16:03:44,613-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:44,712-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 16:03:44,873-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 16:03:44,874-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461373','pwd':'','regname':'lemon'}
+2018-11-11 16:03:44,976-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 16:03:45,205-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 16:03:45,206-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:45,311-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 16:03:45,565-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 16:03:45,566-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461374','pwd':'12345','regname':'lemon'}
+2018-11-11 16:03:45,665-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 16:03:45,903-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 16:03:45,905-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:46,013-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 16:03:46,256-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 16:03:46,257-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:46,359-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 16:03:46,570-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 16:03:46,571-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','pwd':'','regname':'lemon'}
+2018-11-11 16:03:46,812-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 16:03:47,046-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 16:03:47,047-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:47,163-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 16:03:47,398-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 16:03:47,399-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','pwd':'12345','regname':'lemon'}
+2018-11-11 16:03:47,507-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 16:03:47,731-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 16:03:47,732-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','pwd':'123456','regname':'lemon'}
+2018-11-11 16:03:47,840-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 16:03:48,062-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 16:03:48,063-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','amount':'10000'}
+2018-11-11 16:03:49,983-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41743, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344461371', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 16:03:54.0'}, 'msg': '充值成功'}
+2018-11-11 16:03:50,175-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 16:03:50,176-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','amount':'100.001'}
+2018-11-11 16:03:50,273-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 16:03:50,441-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 16:03:50,442-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','amount':'500000.01'}
+2018-11-11 16:03:50,580-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 16:03:50,800-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 16:03:50,801-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','amount':'-100'}
+2018-11-11 16:03:50,917-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 16:03:51,105-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 16:03:51,106-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','amount':'一万'}
+2018-11-11 16:03:51,221-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 16:03:51,394-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 16:03:51,394-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 16:03:51,742-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 16:03:51,903-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 16:03:51,905-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461371','amount':''}
+2018-11-11 16:03:52,043-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 16:03:52,214-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 16:03:52,215-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344461372','amount':'10000'}
+2018-11-11 16:03:52,356-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41744, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344461372', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 16:03:55.0'}, 'msg': '充值成功'}
+2018-11-11 16:04:59,067-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 16:04:59,067-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','pwd':'123456','regname':'lemon'}
+2018-11-11 16:04:59,194-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 16:04:59,365-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 16:04:59,366-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','pwd':'123456','regname':'lemon'}
+2018-11-11 16:04:59,468-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2018-11-11 16:04:59,641-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 16:04:59,643-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466454','pwd':'123456'}
+2018-11-11 16:04:59,760-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '注册成功'}
+2018-11-11 16:04:59,934-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 16:04:59,935-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 16:05:00,058-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 16:05:00,225-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 16:05:00,225-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466455','pwd':'','regname':'lemon'}
+2018-11-11 16:05:00,353-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 16:05:00,519-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 16:05:00,520-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 16:05:00,619-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2018-11-11 16:05:00,843-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 16:05:00,844-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466456','pwd':'12345','regname':'lemon'}
+2018-11-11 16:05:00,948-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20108', 'data': None, 'msg': '密码长度必须为6~18'}
+2018-11-11 16:05:01,158-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 16:05:01,159-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','pwd':'123456','regname':'lemon'}
+2018-11-11 16:05:01,262-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 16:05:01,432-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 16:05:01,435-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','pwd':'123456','regname':'lemon'}
+2018-11-11 16:05:01,538-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 16:05:01,719-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 16:05:01,720-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','pwd':'','regname':'lemon'}
+2018-11-11 16:05:01,881-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2018-11-11 16:05:02,064-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 16:05:02,065-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'1334444555','pwd':'123456','regname':'lemon'}
+2018-11-11 16:05:02,172-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 16:05:02,340-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 16:05:02,341-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','pwd':'12345','regname':'lemon'}
+2018-11-11 16:05:02,444-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2018-11-11 16:05:02,612-INFO-my_log.py-python20-日志信息:正在执行第1条测试用例
+2018-11-11 16:05:02,613-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','pwd':'123456','regname':'lemon'}
+2018-11-11 16:05:02,900-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2018-11-11 16:05:03,062-INFO-my_log.py-python20-日志信息:正在执行第2条测试用例
+2018-11-11 16:05:03,063-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','amount':'10000'}
+2018-11-11 16:05:03,185-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 1, 'code': '10001', 'data': {'id': 41746, 'regname': 'lemon', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '13344466453', 'leaveamount': '10000.00', 'type': '1', 'regtime': '2018-11-11 16:05:10.0'}, 'msg': '充值成功'}
+2018-11-11 16:05:03,402-INFO-my_log.py-python20-日志信息:正在执行第3条测试用例
+2018-11-11 16:05:03,403-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','amount':'100.001'}
+2018-11-11 16:05:04,178-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20116', 'data': None, 'msg': '输入金额的金额小数不能超过两位'}
+2018-11-11 16:05:04,345-INFO-my_log.py-python20-日志信息:正在执行第4条测试用例
+2018-11-11 16:05:04,346-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','amount':'500000.01'}
+2018-11-11 16:05:04,443-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 16:05:04,625-INFO-my_log.py-python20-日志信息:正在执行第5条测试用例
+2018-11-11 16:05:04,626-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','amount':'-100'}
+2018-11-11 16:05:04,727-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2018-11-11 16:05:04,889-INFO-my_log.py-python20-日志信息:正在执行第6条测试用例
+2018-11-11 16:05:04,890-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','amount':'一万'}
+2018-11-11 16:05:04,998-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20118', 'data': None, 'msg': '请输入数字'}
+2018-11-11 16:05:05,168-INFO-my_log.py-python20-日志信息:正在执行第7条测试用例
+2018-11-11 16:05:05,169-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'','amount':'10000'}
+2018-11-11 16:05:05,384-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2018-11-11 16:05:05,572-INFO-my_log.py-python20-日志信息:正在执行第8条测试用例
+2018-11-11 16:05:05,573-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466453','amount':''}
+2018-11-11 16:05:05,671-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20115', 'data': None, 'msg': '请输入金额'}
+2018-11-11 16:05:05,848-INFO-my_log.py-python20-日志信息:正在执行第9条测试用例
+2018-11-11 16:05:05,849-INFO-my_log.py-python20-日志信息:测试数据是：{'mobilephone':'13344466455','amount':'10000'}
+2018-11-11 16:05:05,959-INFO-my_log.py-python20-日志信息:实际结果是：{'status': 0, 'code': '20104', 'data': None, 'msg': '此手机号对应的会员不存在'}
