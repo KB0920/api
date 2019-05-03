@@ -5,9 +5,7 @@ import unittest
 from api_test.Public import test_path
 from api_test.test_case.register_case import TestRegister
 from api_test.test_case.recharge_case import TestRecharge
-from api_test.test_case.login_case import TestLogin
-from api_test.test_case.invest_case import TestInvest
-from api_test.test_case.add_case import TestAdd
+
 from api_test.Public import test_path
 import HTMLTestRunnerNew
 
