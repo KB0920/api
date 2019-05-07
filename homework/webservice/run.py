@@ -2,6 +2,8 @@
 import HTMLTestRunnerNew
 import unittest
 from webservice.Common import path
+import sys
+sys.path.append('./.')
 
 discover=unittest.defaultTestLoader.discover(path.case_path,'*_case.py')
 
